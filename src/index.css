@@ -14,3 +14,12 @@
 .red {
   color: #e23131;
 }
+
+h1 {
+  /* Override the bootstrap h1 size */
+  font-size: 70px !important;
+}
+.icon i {
+  font-size: 80px;
+  color: #007bff;
+}
