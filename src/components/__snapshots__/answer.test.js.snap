@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Answer /> should render correctly 1`] = `
+<div
+  className="answer-card m-2 p-2"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col col-10"
+      id="answer_answer"
+    >
+      A storage construct whose value can change
+    </div>
+    <div
+      className="col col-2 text-right"
+    >
+      <i
+        className="fas fa-check green m-2"
+      />
+      <i
+        className="fas fa-pencil-alt m-2 green"
+      />
+      <i
+        className="fas fa-trash m-2 red"
+      />
+    </div>
+    <div
+      className="col col-12 my-2 small brown"
+    >
+      <i
+        className="far fa-clock"
+      />
+       
+      <span
+        id="answer_date_posted"
+      >
+        Fri, 03 Aug 2018 00:00:00 GMT
+      </span>
+    </div>
+    <div
+      className="col col-12 thumbs"
+    >
+      <i
+        className="fas fa-thumbs-up"
+      />
+      <i
+        className="fas fa-thumbs-down"
+      />
+      <span
+        className="small brown"
+      >
+        # Votes
+      </span>
+    </div>
+  </div>
+</div>
+`;
