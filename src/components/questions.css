@@ -1,0 +1,20 @@
+.question-card {
+  border: 1px solid #eaeaea;
+  border-radius: 5px;
+}
+.question-heading {
+  color: #0a427e;
+  font-size: 22px;
+}
+.question-heading i {
+  color: #007bff;
+}
+.answer-card {
+  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+.thumbs i {
+  padding: 5px;
+  margin: 5px;
+  background-color: #cfcfcf;
+}

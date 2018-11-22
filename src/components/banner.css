@@ -1,0 +1,11 @@
+.banner {
+  background: url("../img/banner.jpg") no-repeat 0 -600px;
+}
+.login-box {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 1px solid #007bff;
+  border-radius: 5px;
+}
+.sign-up-call {
+  background-color: rgba(0, 0, 0, 0.5);
+}
